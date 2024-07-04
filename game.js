@@ -5,6 +5,7 @@ var gamePattern = []
 var buttonColors = ["red", "blue", "green", "yellow"]
 
 
+
 // function for the next sequence
 function nextSquence(params) {
 
